@@ -1,0 +1,16 @@
+train: my_data_images_for_train/train
+val: my_data_images_for_train/valid
+nc: 12
+names: ['Agaricus',
+        'Amanita',
+        'Boletus',
+        'Cortinarius',
+        'Entoloma',
+        'Exidia',
+        'Hygrocybe',
+        'Inocybe',
+        'Lactarius',
+        'Pluteus',
+        'Russula',
+        'Suillus'
+]
